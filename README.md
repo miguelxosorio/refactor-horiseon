@@ -32,10 +32,10 @@ We'll do that by:
 
 ## Challenges
 
-I was overthinking all the codes and didn't realize that I already have a starter code and I just needed to clean it up a little bit to resemble the mock image of the website. I went back and forth in all the classes and and id's because it felt like I was missing something. 
+I was overthinking all the codes and didn't realize that I already have a starter code and I just needed to clean it up a little bit to resemble the mock image of the website. I went back and forth in all the classes and and id's because it felt like I was missing something. I was struggling to remove the text-style-decoration on the <header><div><ul><li>. Initially I was just adding it to see how it looks like on the webpage but when I removed it on the CSS, it didn't take it off the page. I cleared my cache, and tried to look for duplicated codes in the CSS but that didn't do the trick. It may be a bug? I am not sure.
 
 ## Bugs
-
+text-style-decoration on the <header><div><ul><li>
 
 ## LICENSE
 
