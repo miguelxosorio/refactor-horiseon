@@ -6,7 +6,7 @@ Xandromus, Miguel Osorio
 
 # Brief Description:
 
-A Simple, Intuitive Web application for Search Engine Optimization, Online Reputation Management, and Social Media Marketing. This is a website refactored to improve user experience.
+A Simple, Intuitive Web application for Search Engine Optimization, Online Reputation Management, and Social Media Marketing. This is a website refactored to improve user experience and to ensure business growth.
 
 # Languages and Technologies Used:
 
@@ -29,6 +29,13 @@ We'll do that by:
 8. Creating mobile apps
 9. Using Latent Semantic Indexing
 10. Using Infographics as needed
+
+## Challenges
+
+I was overthinking all the codes and didn't realize that I already have a starter code and I just needed to clean it up a little bit to resemble the mock image of the website. I went back and forth in all the classes and and id's because it felt like I was missing something. 
+
+## Bugs
+
 
 ## LICENSE
 
