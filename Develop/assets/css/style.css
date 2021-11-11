@@ -87,6 +87,7 @@ body {
     background-color: #2a607c;
 }
 
+/* Consolidated Codes */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -132,6 +133,7 @@ body {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of Consolidated Codes*/
 
 .footer {
     padding: 30px;
